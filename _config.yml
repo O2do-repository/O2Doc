@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: O2Docs
+description: Official documentation for O2Do
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://o2do-repository.github.io/O2Doc/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
