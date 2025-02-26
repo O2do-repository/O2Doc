@@ -19,9 +19,3 @@ O2Do official documentation.
 ### You are new in O2Do? 
 
 Read the [Onboarding section](docs/HR/Onboarding)
-
-## Important note
-
-Belgian lows and official regulations prevail on anything declared on this site. 
-
-Please create an issue if you detect anything that may be misleading to that regard. 
