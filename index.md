@@ -1,10 +1,11 @@
 ---
 title: Home
 layout: home
+nav-order: 0
 ---
 
 # O2Doc
-O2Do official documentation
+O2Do official documentation. 
 
 ## How this documentation works
 
@@ -16,7 +17,7 @@ O2Do official documentation
 
 ### You are new in O2Do? 
 
-Read the [Onboarding section](/HR/HR.md)
+Read the [Onboarding section](docs/HR/Onboarding)
 
 ## Important note
 
