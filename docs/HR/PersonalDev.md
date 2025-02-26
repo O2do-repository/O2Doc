@@ -5,22 +5,28 @@ parent: HR
 nav_order: 2
 ---
 
-# Personal development & evolution
+# Growth & Development at O2DO 🚀
 
-## Talent development
+At O2DO, we believe in continuous learning and growth. Your personal and professional development is a key part of your journey with us.
 
-[Learning path](https://teams.microsoft.com/l/channel/19%3A6712547d205d4790a40cfb4339a1f0aa%40thread.skype/Learning%20path?groupId=ac2e9d38-b29c-4d15-9097-e5da51c04887&tenantId=b851794f-4c22-4fd7-8dc1-e76a77e5d2f2)
+### What You’ll Find Here 📌
 
-## Annual evaluation
+**Personal Development & Evolution** – A structured approach to help you grow within O2DO.
 
-At O2Do personal development is based on three pillars: 
-- Developpment of your soft skills
-- Developpment of your hard skills
-- Contribution to O2Do development
+- link [Coursera](https://www.coursera.org)
 
-These materialize into specific objectifs that will be evaluated annually.
+**Talent Development & Learning Path** – Resources and guidance to support your learning journey.
 
-### Usefull links
+- [Learning path](https://teams.microsoft.com/l/channel/19%3A6712547d205d4790a40cfb4339a1f0aa%40thread.skype/Learning%20path?groupId=ac2e9d38-b29c-4d15-9097-e5da51c04887&tenantId=b851794f-4c22-4fd7-8dc1-e76a77e5d2f2)
 
-[Template in use for annual evaluation review](https://o2do.sharepoint.com/:w:/r/sites/O2Do/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B78688f21-e50d-4607-a45c-be2c0cbba279%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740490527507&web=1)
+**Annual Evaluation** – Your development is based on three pillars:
+
+- Soft Skills Development – Strengthening interpersonal and leadership skills.
+- Hard Skills Development – Enhancing technical and role-specific expertise.
+- Contribution to O2DO’s Growth – Actively participating in the company’s evolution.
+
+[Template](https://o2do.sharepoint.com/:w:/r/sites/O2Do/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B78688f21-e50d-4607-a45c-be2c0cbba279%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740490527507&web=1) : Template in use for annual evaluation review
+These pillars translate into specific objectives that will be reviewed and evaluated annually to support your continuous progress.
+
+Let’s grow together! 🌱🚀
 
