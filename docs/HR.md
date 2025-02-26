@@ -4,13 +4,6 @@ nav_order: 2
 last_modified_date: 26-02-2025
 ---
 # HR
-{: .no_toc}
-
-## Table of content
-{: .no_toc .text-delta }
-1. TOC
-{:toc}
---- 
 
 ## Important note
 
