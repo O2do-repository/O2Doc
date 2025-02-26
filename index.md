@@ -1,8 +1,8 @@
 ---
 title: Home
 layout: home
-nav_exclude: true # Excluded because it doesn't show up in the right order ignoring the nav-order... Bug??!
-nav-order: 1
+nav_exclude: false # Excluded because it doesn't show up in the right order ignoring the nav-order... Bug??!
+nav_order: 1
 ---
 
 # O2Doc
