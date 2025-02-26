@@ -1,9 +1,15 @@
 ---
 title: HR
-layout: home
-nav_order: 2
+nav_order: 5
 ---
 # HR
+{: .no_toc}
+
+## Table of content
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+--- 
 
 ## Personal development & evolution
 
