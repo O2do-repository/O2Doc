@@ -1,6 +1,6 @@
 ---
 title: HR
-nav_order: 5
+nav_order: 2
 last_modified_date: 26-02-2025
 ---
 # HR
