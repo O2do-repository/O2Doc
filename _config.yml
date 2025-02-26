@@ -4,5 +4,91 @@ theme: just-the-docs
 
 url: https://o2do-repository.github.io/O2Doc/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+permalink: pretty
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo-trim.svg"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.png"
+
+# External navigation links
+nav_external_links:
+  - title: Contribute to this documentation
+    url: https://github.com/O2do-repository/O2Doc
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+# Defines an aux_link on the top bar of the page
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Define defaults values for Front Matter: 
+# https://jekyllrb.com/docs/configuration/front-matter-defaults/
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "page"
+    values:
+      layout: "default"
+      has-toc: true
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
+
+
+# For copy button on code
+enable_copy_code_button: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# footer_content: 'Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
