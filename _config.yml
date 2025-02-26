@@ -6,6 +6,9 @@ url: https://o2do-repository.github.io/O2Doc/
 
 permalink: pretty
 
+# Set the color-scheme (https://just-the-docs.com/docs/customization/#custom-schemes)
+color_scheme: o2do
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo-trim.svg"
 
