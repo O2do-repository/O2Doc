@@ -13,7 +13,7 @@ quotes always appear in their native language.  Usually the fun can't be transla
 
 ### The fun ones
 
-> Moins tu cours plus vite, moins tu cours plus vite. 
+> Moins tu cours plus vite, plus tu cours moins vite. 
 
 ### Get inspired
 
