@@ -11,6 +11,10 @@ nav_order: 1
 
 We're excited to have you on board! This space is designed to support your onboarding journey and provide you with everything you need to integrate smoothly into O2DO.
 
+## Salary process
+
+[Process to respect](https://o2do.sharepoint.com/:p:/s/O2Do/EQ34LvvA4UZHmzMKP1ifaIgBa-wyw7h4Lrm-1I-P_B1Nvg?e=F55nHw) in order to make sure to receive your salaries on time.  
+
 ## What You’ll Find Here 📌
 
 **HR Documentation** – All essential HR policies, procedures, and resources in one place.
